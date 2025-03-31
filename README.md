@@ -14,9 +14,6 @@
 
 ## 📊 GitHub Stats
 
-### 🔥 Contribution Graph
-[![Shashwat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Itz-Shashwat&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 🚀 Profile Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Itz-Shashwat&show_icons=true&theme=radical" />
@@ -30,10 +27,13 @@
 
 ---
 
-## 📈 Repository Stats
-### 🚀 Trending Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Shashwat&repo=your-repo-name&theme=radical)](https://github.com/Itz-Shashwat/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Shashwat&repo=another-repo-name&theme=radical)](https://github.com/Itz-Shashwat/another-repo-name)
+## 📈 Featured Repositories
+
+### 🚀 SentinelAI – AI-powered Network Decoy System
+[![SentinelAI](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Shashwat&repo=sentinelAI&theme=radical)](https://github.com/Itz-Shashwat/sentinelAI)
+
+### 💊 PiLLPaLL – Medicine & Prescription Management App
+[![PiLLPaLL](https://github-readme-stats.vercel.app/api/pin/?username=Itz-Shashwat&repo=PiLLPaLL&theme=radical)](https://github.com/Itz-Shashwat/PiLLPaLL)
 
 ---
 
